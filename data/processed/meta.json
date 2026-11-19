@@ -1,0 +1,21 @@
+{
+  "fetched_at": "2026-11-20T03:14:06",
+  "history_start": "2022-06-01",
+  "history_end": "2026-11-14",
+  "models": [
+    "ecmwf_ifs025",
+    "gfs_seamless",
+    "icon_seamless"
+  ],
+  "sources": [
+    "Open-Meteo Forecast",
+    "Open-Meteo Historical Forecast",
+    "Open-Meteo Historical Weather (ERA5)",
+    "Open-Meteo Elevation (Copernicus DEM)"
+  ],
+  "processed_models": [
+    "ecmwf_ifs025",
+    "gfs_seamless",
+    "icon_seamless"
+  ]
+}

@@ -1,0 +1,155 @@
+date,rain_blend,rain_min,rain_max,locality,susc,elev_m,rel_elev_m,lat,lon,score,level,confidence,action
+2026-11-20,0.0,0.0,0.0,Charminar,0.747,508.0,0.25,17.3616,78.4747,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-21,0.014069523985289937,0.0,0.1,Charminar,0.747,508.0,0.25,17.3616,78.4747,0.015807110197473242,Green,High,No flood action. Routine monitoring.
+2026-11-22,0.0,0.0,0.0,Charminar,0.747,508.0,0.25,17.3616,78.4747,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-23,0.0,0.0,0.0,Charminar,0.747,508.0,0.25,17.3616,78.4747,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-24,0.0,0.0,0.0,Charminar,0.747,508.0,0.25,17.3616,78.4747,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-25,1.3020077909912702,0.0,1.9,Charminar,0.747,508.0,0.25,17.3616,78.4747,1.462805753178692,Green,High,No flood action. Routine monitoring.
+2026-11-26,1.713168146041145,0.0,2.5,Charminar,0.747,508.0,0.25,17.3616,78.4747,1.9247444120772264,Green,High,No flood action. Routine monitoring.
+2026-11-20,0.0,0.0,0.0,Chaderghat,0.857,501.0,-0.25,17.383,78.49,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-21,0.007226477904385156,0.0,0.1,Chaderghat,0.857,501.0,-0.25,17.383,78.49,0.008516404210317907,Green,High,No flood action. Routine monitoring.
+2026-11-22,0.0,0.0,0.0,Chaderghat,0.857,501.0,-0.25,17.383,78.49,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-23,0.0,0.0,0.0,Chaderghat,0.857,501.0,-0.25,17.383,78.49,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-24,0.0,0.0,0.0,Chaderghat,0.857,501.0,-0.25,17.383,78.49,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-25,1.7454694644663373,0.0,2.1,Chaderghat,0.857,501.0,-0.25,17.383,78.49,2.0570357638735786,Green,High,No flood action. Routine monitoring.
+2026-11-26,1.4129990902822729,0.0,1.7,Chaderghat,0.857,501.0,-0.25,17.383,78.49,1.6652194278976586,Green,High,No flood action. Routine monitoring.
+2026-11-20,0.0,0.0,0.0,Malakpet,0.527,501.0,7.0,17.375,78.51,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-21,0.02053368648024499,0.0,0.1,Malakpet,0.527,501.0,7.0,17.375,78.51,0.020810891247728298,Green,High,No flood action. Routine monitoring.
+2026-11-22,0.0,0.0,0.0,Malakpet,0.527,501.0,7.0,17.375,78.51,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-23,0.0,0.0,0.0,Malakpet,0.527,501.0,7.0,17.375,78.51,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-24,0.0,0.0,0.0,Malakpet,0.527,501.0,7.0,17.375,78.51,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-25,1.2474975679850886,0.0,2.1,Malakpet,0.527,501.0,7.0,17.375,78.51,1.2643387851528873,Green,High,No flood action. Routine monitoring.
+2026-11-26,1.0098789836069764,0.0,1.7,Malakpet,0.527,501.0,7.0,17.375,78.51,1.0235123498856706,Green,High,No flood action. Routine monitoring.
+2026-11-20,0.0,0.0,0.0,Amberpet,0.823,498.0,1.0,17.392,78.516,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-21,0.02053368648024499,0.0,0.1,Amberpet,0.823,498.0,1.0,17.392,78.516,0.023849876846804553,Green,High,No flood action. Routine monitoring.
+2026-11-22,0.0,0.0,0.0,Amberpet,0.823,498.0,1.0,17.392,78.516,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-23,0.0,0.0,0.0,Amberpet,0.823,498.0,1.0,17.392,78.516,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-24,0.0,0.0,0.0,Amberpet,0.823,498.0,1.0,17.392,78.516,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-25,1.2474975679850886,0.0,2.1,Amberpet,0.823,498.0,1.0,17.392,78.516,1.4489684252146804,Green,High,No flood action. Routine monitoring.
+2026-11-26,1.0098789836069764,0.0,1.7,Amberpet,0.823,498.0,1.0,17.392,78.516,1.172974439459503,Green,High,No flood action. Routine monitoring.
+2026-11-20,0.0,0.0,0.0,Musheerabad,0.495,517.0,2.125,17.417,78.495,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-21,0.007226477904385156,0.0,0.1,Musheerabad,0.495,517.0,2.125,17.417,78.495,0.007208411709624194,Green,High,No flood action. Routine monitoring.
+2026-11-22,0.0,0.0,0.0,Musheerabad,0.495,517.0,2.125,17.417,78.495,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-23,0.0,0.0,0.0,Musheerabad,0.495,517.0,2.125,17.417,78.495,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-24,0.0,0.0,0.0,Musheerabad,0.495,517.0,2.125,17.417,78.495,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-25,1.7454694644663373,0.0,2.1,Musheerabad,0.495,517.0,2.125,17.417,78.495,1.7411057908051715,Green,High,No flood action. Routine monitoring.
+2026-11-26,1.4129990902822729,0.0,1.7,Musheerabad,0.495,517.0,2.125,17.417,78.495,1.4094665925565673,Green,High,No flood action. Routine monitoring.
+2026-11-20,0.0,0.0,0.0,Tank Bund / Hussain Sagar,0.862,513.0,-7.375,17.4239,78.4738,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-21,0.007226477904385156,0.0,0.1,Tank Bund / Hussain Sagar,0.862,513.0,-7.375,17.4239,78.4738,0.00853447040507887,Green,High,No flood action. Routine monitoring.
+2026-11-22,0.0,0.0,0.0,Tank Bund / Hussain Sagar,0.862,513.0,-7.375,17.4239,78.4738,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-23,0.0,0.0,0.0,Tank Bund / Hussain Sagar,0.862,513.0,-7.375,17.4239,78.4738,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-24,0.0,0.0,0.0,Tank Bund / Hussain Sagar,0.862,513.0,-7.375,17.4239,78.4738,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-25,1.7454694644663373,0.0,2.1,Tank Bund / Hussain Sagar,0.862,513.0,-7.375,17.4239,78.4738,2.0613994375347446,Green,High,No flood action. Routine monitoring.
+2026-11-26,1.4129990902822729,0.0,1.7,Tank Bund / Hussain Sagar,0.862,513.0,-7.375,17.4239,78.4738,1.6687519256233643,Green,High,No flood action. Routine monitoring.
+2026-11-20,0.0,0.0,0.0,Begumpet,0.703,525.0,-3.625,17.444,78.4676,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-21,0.008467737871027293,0.0,0.1,Begumpet,0.703,525.0,-3.625,17.444,78.4676,0.009327213264936563,Green,High,No flood action. Routine monitoring.
+2026-11-22,0.0,0.0,0.0,Begumpet,0.703,525.0,-3.625,17.444,78.4676,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-23,0.0,0.0,0.0,Begumpet,0.703,525.0,-3.625,17.444,78.4676,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-24,0.0,0.0,0.0,Begumpet,0.703,525.0,-3.625,17.444,78.4676,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-25,1.6457275197020624,0.0,2.1,Begumpet,0.703,525.0,-3.625,17.444,78.4676,1.8127688629518217,Green,High,No flood action. Routine monitoring.
+2026-11-26,1.3322556111873838,0.0,1.7,Begumpet,0.703,525.0,-3.625,17.444,78.4676,1.4674795557229032,Green,High,No flood action. Routine monitoring.
+2026-11-20,0.0,0.0,0.0,Secunderabad,0.242,538.0,7.875,17.4399,78.4983,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-21,0.021153405848456742,0.0,0.1,Secunderabad,0.242,538.0,7.875,17.4399,78.4983,0.018424616494005824,Green,High,No flood action. Routine monitoring.
+2026-11-22,0.0,0.0,0.0,Secunderabad,0.242,538.0,7.875,17.4399,78.4983,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-23,0.0,0.0,0.0,Secunderabad,0.242,538.0,7.875,17.4399,78.4983,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-24,0.0,0.0,0.0,Secunderabad,0.242,538.0,7.875,17.4399,78.4983,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-25,1.2578020479486542,0.0,2.1,Secunderabad,0.242,538.0,7.875,17.4399,78.4983,1.095545583763278,Green,High,No flood action. Routine monitoring.
+2026-11-26,1.0182207054822439,0.0,1.7,Secunderabad,0.242,538.0,7.875,17.4399,78.4983,0.8868702344750344,Green,High,No flood action. Routine monitoring.
+2026-11-20,0.0,0.0,0.0,Mehdipatnam,0.786,532.0,-7.375,17.395,78.435,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-21,0.0,0.0,0.0,Mehdipatnam,0.786,532.0,-7.375,17.395,78.435,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-22,0.0,0.0,0.0,Mehdipatnam,0.786,532.0,-7.375,17.395,78.435,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-23,0.0,0.0,0.0,Mehdipatnam,0.786,532.0,-7.375,17.395,78.435,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-24,0.0,0.0,0.0,Mehdipatnam,0.786,532.0,-7.375,17.395,78.435,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-25,1.763302901739193,0.0,2.1,Mehdipatnam,0.786,532.0,-7.375,17.395,78.435,2.0154552166878976,Green,High,No flood action. Routine monitoring.
+2026-11-26,1.427435682360299,0.0,1.7,Mehdipatnam,0.786,532.0,-7.375,17.395,78.435,1.6315589849378218,Green,High,No flood action. Routine monitoring.
+2026-11-20,0.0,0.0,0.0,Tolichowki,0.836,532.0,-21.25,17.4,78.41,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-21,0.0,0.0,0.0,Tolichowki,0.836,532.0,-21.25,17.4,78.41,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-22,0.0,0.0,0.0,Tolichowki,0.836,532.0,-21.25,17.4,78.41,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-23,0.0,0.0,0.0,Tolichowki,0.836,532.0,-21.25,17.4,78.41,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-24,0.0,0.0,0.0,Tolichowki,0.836,532.0,-21.25,17.4,78.41,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-25,1.5671023591136253,0.0,2.1,Tolichowki,0.836,532.0,-21.25,17.4,78.41,1.8303755554447143,Green,High,No flood action. Routine monitoring.
+2026-11-26,1.2686066716634108,0.0,1.7,Tolichowki,0.836,532.0,-21.25,17.4,78.41,1.4817325925028637,Green,High,No flood action. Routine monitoring.
+2026-11-20,0.0,0.0,0.0,Attapur,0.857,510.0,-7.125,17.368,78.426,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-21,0.0,0.0,0.0,Attapur,0.857,510.0,-7.125,17.368,78.426,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-22,0.0,0.0,0.0,Attapur,0.857,510.0,-7.125,17.368,78.426,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-23,0.0,0.0,0.0,Attapur,0.857,510.0,-7.125,17.368,78.426,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-24,0.0,0.0,0.0,Attapur,0.857,510.0,-7.125,17.368,78.426,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-25,1.042585731443116,0.0,1.9,Attapur,0.857,510.0,-7.125,17.368,78.426,1.2286872845057122,Green,High,No flood action. Routine monitoring.
+2026-11-26,1.3718233308462051,0.0,2.5,Attapur,0.857,510.0,-7.125,17.368,78.426,1.6166937954022529,Green,High,No flood action. Routine monitoring.
+2026-11-20,0.0,0.0,0.0,Falaknuma,0.0,588.0,54.5,17.33,78.468,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-21,0.0,0.0,0.0,Falaknuma,0.0,588.0,54.5,17.33,78.468,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-22,0.0,0.0,0.0,Falaknuma,0.0,588.0,54.5,17.33,78.468,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-23,0.0,0.0,0.0,Falaknuma,0.0,588.0,54.5,17.33,78.468,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-24,0.0,0.0,0.0,Falaknuma,0.0,588.0,54.5,17.33,78.468,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-25,1.3457966636673524,0.0,1.9,Falaknuma,0.0,588.0,54.5,17.33,78.468,1.0093474977505144,Green,High,No flood action. Routine monitoring.
+2026-11-26,1.7707850837728323,0.0,2.5,Falaknuma,0.0,588.0,54.5,17.33,78.468,1.3280888128296242,Green,High,No flood action. Routine monitoring.
+2026-11-20,0.0,0.0,0.0,Dilsukhnagar,0.648,494.0,2.75,17.3688,78.5247,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-21,0.0155303590188372,0.0,0.1,Dilsukhnagar,0.648,494.0,2.75,17.3688,78.5247,0.016679605586231154,Green,High,No flood action. Routine monitoring.
+2026-11-22,0.0,0.0,0.0,Dilsukhnagar,0.648,494.0,2.75,17.3688,78.5247,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-23,0.0,0.0,0.0,Dilsukhnagar,0.648,494.0,2.75,17.3688,78.5247,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-24,0.0,0.0,0.0,Dilsukhnagar,0.648,494.0,2.75,17.3688,78.5247,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-25,1.3166294491809616,0.0,1.9,Dilsukhnagar,0.648,494.0,2.75,17.3688,78.5247,1.4140600284203528,Green,High,No flood action. Routine monitoring.
+2026-11-26,1.7324071699749497,0.0,2.5,Dilsukhnagar,0.648,494.0,2.75,17.3688,78.5247,1.860605300553096,Green,High,No flood action. Routine monitoring.
+2026-11-20,0.0,0.0,0.0,Saroornagar,0.505,506.0,5.75,17.3541,78.536,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-21,0.017719920369449835,0.0,0.1,Saroornagar,0.505,506.0,5.75,17.3541,78.536,0.01776422017037346,Green,High,No flood action. Routine monitoring.
+2026-11-22,0.0,0.0,0.0,Saroornagar,0.505,506.0,5.75,17.3541,78.536,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-23,0.0,0.0,0.0,Saroornagar,0.505,506.0,5.75,17.3541,78.536,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-24,0.0,0.0,0.0,Saroornagar,0.505,506.0,5.75,17.3541,78.536,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-25,1.2266430259609062,0.0,1.9,Saroornagar,0.505,506.0,5.75,17.3541,78.536,1.2297096335258084,Green,High,No flood action. Routine monitoring.
+2026-11-26,1.6140039815275085,0.0,2.5,Saroornagar,0.505,506.0,5.75,17.3541,78.536,1.6180389914813271,Green,High,No flood action. Routine monitoring.
+2026-11-20,0.0,0.0,0.0,LB Nagar,0.505,511.0,2.625,17.3457,78.5522,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-21,0.017719920369449835,0.0,0.1,LB Nagar,0.505,511.0,2.625,17.3457,78.5522,0.01776422017037346,Green,High,No flood action. Routine monitoring.
+2026-11-22,0.0,0.0,0.0,LB Nagar,0.505,511.0,2.625,17.3457,78.5522,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-23,0.0,0.0,0.0,LB Nagar,0.505,511.0,2.625,17.3457,78.5522,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-24,0.0,0.0,0.0,LB Nagar,0.505,511.0,2.625,17.3457,78.5522,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-25,1.2266430259609062,0.0,1.9,LB Nagar,0.505,511.0,2.625,17.3457,78.5522,1.2297096335258084,Green,High,No flood action. Routine monitoring.
+2026-11-26,1.6140039815275085,0.0,2.5,LB Nagar,0.505,511.0,2.625,17.3457,78.5522,1.6180389914813271,Green,High,No flood action. Routine monitoring.
+2026-11-20,0.0,0.0,0.0,Nagole,1.0,474.0,-5.75,17.392,78.564,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-21,0.020944978158484007,0.0,0.1,Nagole,1.0,474.0,-5.75,17.392,78.564,0.02618122269810501,Green,High,No flood action. Routine monitoring.
+2026-11-22,0.0,0.0,0.0,Nagole,1.0,474.0,-5.75,17.392,78.564,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-23,0.0,0.0,0.0,Nagole,1.0,474.0,-5.75,17.392,78.564,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-24,0.0,0.0,0.0,Nagole,1.0,474.0,-5.75,17.392,78.564,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-25,1.2724850620149264,0.0,2.1,Nagole,1.0,474.0,-5.75,17.392,78.564,1.590606327518658,Green,High,No flood action. Routine monitoring.
+2026-11-26,1.0301069549644641,0.0,1.7,Nagole,1.0,474.0,-5.75,17.392,78.564,1.2876336937055801,Green,High,No flood action. Routine monitoring.
+2026-11-20,0.0,0.0,0.0,Uppal,0.395,504.0,13.125,17.4058,78.5591,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-21,0.02053368648024499,0.0,0.1,Uppal,0.395,504.0,13.125,17.4058,78.5591,0.019455667940032128,Green,High,No flood action. Routine monitoring.
+2026-11-22,0.0,0.0,0.0,Uppal,0.395,504.0,13.125,17.4058,78.5591,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-23,0.0,0.0,0.0,Uppal,0.395,504.0,13.125,17.4058,78.5591,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-24,0.0,0.0,0.0,Uppal,0.395,504.0,13.125,17.4058,78.5591,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-25,1.2474975679850886,0.0,2.1,Uppal,0.395,504.0,13.125,17.4058,78.5591,1.1820039456658715,Green,High,No flood action. Routine monitoring.
+2026-11-26,1.0098789836069764,0.0,1.7,Uppal,0.395,504.0,13.125,17.4058,78.5591,0.9568603369676101,Green,High,No flood action. Routine monitoring.
+2026-11-20,0.0,0.0,0.0,Kukatpally,0.121,586.0,9.125,17.4948,78.3996,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-21,0.0,0.0,0.0,Kukatpally,0.121,586.0,9.125,17.4948,78.3996,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-22,0.0,0.0,0.0,Kukatpally,0.121,586.0,9.125,17.4948,78.3996,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-23,0.0,0.0,0.0,Kukatpally,0.121,586.0,9.125,17.4948,78.3996,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-24,0.0,0.0,0.0,Kukatpally,0.121,586.0,9.125,17.4948,78.3996,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-25,1.2116108652071058,0.0,2.1,Kukatpally,0.121,586.0,9.125,17.4948,78.3996,0.9820106062503593,Green,High,No flood action. Routine monitoring.
+2026-11-26,0.9808278432628952,0.0,1.7,Kukatpally,0.121,586.0,9.125,17.4948,78.3996,0.7949609669645765,Green,High,No flood action. Routine monitoring.
+2026-11-20,0.0,0.0,0.0,Miyapur,0.439,584.0,1.625,17.4967,78.356,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-21,0.0,0.0,0.0,Miyapur,0.439,584.0,1.625,17.4967,78.356,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-22,0.0,0.0,0.0,Miyapur,0.439,584.0,1.625,17.4967,78.356,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-23,0.0,0.0,0.0,Miyapur,0.439,584.0,1.625,17.4967,78.356,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-24,0.0,0.0,0.0,Miyapur,0.439,584.0,1.625,17.4967,78.356,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-25,2.2380661463897895,0.0,3.2,Miyapur,0.439,584.0,1.625,17.4967,78.356,2.169805128924901,Green,High,No flood action. Routine monitoring.
+2026-11-26,1.3288517744189374,0.0,1.9,Miyapur,0.439,584.0,1.625,17.4967,78.356,1.28832179529916,Green,High,No flood action. Routine monitoring.
+2026-11-20,0.0,0.0,0.0,Madhapur,0.412,578.0,1.875,17.4486,78.3908,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-21,0.0,0.0,0.0,Madhapur,0.412,578.0,1.875,17.4486,78.3908,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-22,0.0,0.0,0.0,Madhapur,0.412,578.0,1.875,17.4486,78.3908,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-23,0.0,0.0,0.0,Madhapur,0.412,578.0,1.875,17.4486,78.3908,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-24,0.0,0.0,0.0,Madhapur,0.412,578.0,1.875,17.4486,78.3908,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-25,1.2498610558713634,0.0,2.1,Madhapur,0.412,578.0,1.875,17.4486,78.3908,1.1948671694130233,Green,High,No flood action. Routine monitoring.
+2026-11-26,1.011792283324437,0.0,1.7,Madhapur,0.412,578.0,1.875,17.4486,78.3908,0.9672734228581618,Green,High,No flood action. Routine monitoring.
+2026-11-20,0.0,0.0,0.0,Gachibowli,0.011,614.0,17.625,17.4401,78.3489,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-21,0.0,0.0,0.0,Gachibowli,0.011,614.0,17.625,17.4401,78.3489,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-22,0.0,0.0,0.0,Gachibowli,0.011,614.0,17.625,17.4401,78.3489,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-23,0.0,0.0,0.0,Gachibowli,0.011,614.0,17.625,17.4401,78.3489,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-24,0.0,0.0,0.0,Gachibowli,0.011,614.0,17.625,17.4401,78.3489,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-25,2.28781745687848,0.0,3.2,Gachibowli,0.011,614.0,17.625,17.4401,78.3489,1.7284460886716915,Green,High,No flood action. Routine monitoring.
+2026-11-26,1.3583916150215973,0.0,1.9,Gachibowli,0.011,614.0,17.625,17.4401,78.3489,1.0262648651488167,Green,High,No flood action. Routine monitoring.
+2026-11-20,0.0,0.0,0.0,Alwal,0.434,576.0,1.875,17.5,78.51,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-21,0.0,0.0,0.0,Alwal,0.434,576.0,1.875,17.5,78.51,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-22,0.0,0.0,0.0,Alwal,0.434,576.0,1.875,17.5,78.51,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-23,0.0,0.0,0.0,Alwal,0.434,576.0,1.875,17.5,78.51,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-24,0.0,0.0,0.0,Alwal,0.434,576.0,1.875,17.5,78.51,0.0,Green,High,No flood action. Routine monitoring.
+2026-11-25,1.184786403796837,0.0,2.1,Alwal,0.434,576.0,1.875,17.5,78.51,1.1456884524715414,Green,High,No flood action. Routine monitoring.
+2026-11-26,0.9591128030736298,0.0,1.7,Alwal,0.434,576.0,1.875,17.5,78.51,0.9274620805721999,Green,High,No flood action. Routine monitoring.

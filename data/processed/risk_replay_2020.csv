@@ -1,0 +1,199 @@
+locality,date,rain_blend,susc,elev_m,rel_elev_m,lat,lon,rain_min,rain_max,score,level,confidence,action
+Charminar,2020-10-09,6.3,0.747,508.0,0.25,17.3616,78.4747,6.3,6.3,7.078049999999999,Green,High,No flood action. Routine monitoring.
+Charminar,2020-10-10,6.4,0.747,508.0,0.25,17.3616,78.4747,6.4,6.4,7.1904,Green,High,No flood action. Routine monitoring.
+Charminar,2020-10-11,33.5,0.747,508.0,0.25,17.3616,78.4747,33.5,33.5,37.637249999999995,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Charminar,2020-10-12,12.6,0.747,508.0,0.25,17.3616,78.4747,12.6,12.6,14.156099999999999,Green,High,No flood action. Routine monitoring.
+Charminar,2020-10-13,84.9,0.747,508.0,0.25,17.3616,78.4747,84.9,84.9,95.38515,Orange,High,"Be prepared. Pre-position pumps, boats and rescue teams; plan diversions; issue public advisory."
+Charminar,2020-10-14,13.6,0.747,508.0,0.25,17.3616,78.4747,13.6,13.6,15.279599999999999,Green,High,No flood action. Routine monitoring.
+Charminar,2020-10-15,1.2,0.747,508.0,0.25,17.3616,78.4747,1.2,1.2,1.3481999999999998,Green,High,No flood action. Routine monitoring.
+Charminar,2020-10-16,0.1,0.747,508.0,0.25,17.3616,78.4747,0.1,0.1,0.11235,Green,High,No flood action. Routine monitoring.
+Charminar,2020-10-17,1.5,0.747,508.0,0.25,17.3616,78.4747,1.5,1.5,1.68525,Green,High,No flood action. Routine monitoring.
+Chaderghat,2020-10-09,8.2,0.857,501.0,-0.25,17.383,78.49,8.2,8.2,9.6637,Green,High,No flood action. Routine monitoring.
+Chaderghat,2020-10-10,5.9,0.857,501.0,-0.25,17.383,78.49,5.9,5.9,6.953150000000001,Green,High,No flood action. Routine monitoring.
+Chaderghat,2020-10-11,40.7,0.857,501.0,-0.25,17.383,78.49,40.7,40.7,47.96495000000001,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Chaderghat,2020-10-12,11.7,0.857,501.0,-0.25,17.383,78.49,11.7,11.7,13.788450000000001,Green,High,No flood action. Routine monitoring.
+Chaderghat,2020-10-13,80.5,0.857,501.0,-0.25,17.383,78.49,80.5,80.5,94.86925000000001,Orange,High,"Be prepared. Pre-position pumps, boats and rescue teams; plan diversions; issue public advisory."
+Chaderghat,2020-10-14,13.7,0.857,501.0,-0.25,17.383,78.49,13.7,13.7,16.14545,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Chaderghat,2020-10-15,1.4,0.857,501.0,-0.25,17.383,78.49,1.4,1.4,1.6499000000000001,Green,High,No flood action. Routine monitoring.
+Chaderghat,2020-10-16,0.0,0.857,501.0,-0.25,17.383,78.49,0.0,0.0,0.0,Green,High,No flood action. Routine monitoring.
+Chaderghat,2020-10-17,2.3,0.857,501.0,-0.25,17.383,78.49,2.3,2.3,2.71055,Green,High,No flood action. Routine monitoring.
+Malakpet,2020-10-09,7.3,0.527,501.0,7.0,17.375,78.51,7.3,7.3,7.39855,Green,High,No flood action. Routine monitoring.
+Malakpet,2020-10-10,6.0,0.527,501.0,7.0,17.375,78.51,6.0,6.0,6.081,Green,High,No flood action. Routine monitoring.
+Malakpet,2020-10-11,47.5,0.527,501.0,7.0,17.375,78.51,47.5,47.5,48.14125000000001,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Malakpet,2020-10-12,14.1,0.527,501.0,7.0,17.375,78.51,14.1,14.1,14.29035,Green,High,No flood action. Routine monitoring.
+Malakpet,2020-10-13,73.6,0.527,501.0,7.0,17.375,78.51,73.6,73.6,74.5936,Orange,High,"Be prepared. Pre-position pumps, boats and rescue teams; plan diversions; issue public advisory."
+Malakpet,2020-10-14,15.4,0.527,501.0,7.0,17.375,78.51,15.4,15.4,15.6079,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Malakpet,2020-10-15,1.2,0.527,501.0,7.0,17.375,78.51,1.2,1.2,1.2162,Green,High,No flood action. Routine monitoring.
+Malakpet,2020-10-16,0.1,0.527,501.0,7.0,17.375,78.51,0.1,0.1,0.10135000000000001,Green,High,No flood action. Routine monitoring.
+Malakpet,2020-10-17,2.8,0.527,501.0,7.0,17.375,78.51,2.8,2.8,2.8378,Green,High,No flood action. Routine monitoring.
+Amberpet,2020-10-09,7.3,0.823,498.0,1.0,17.392,78.516,7.3,7.3,8.47895,Green,High,No flood action. Routine monitoring.
+Amberpet,2020-10-10,6.0,0.823,498.0,1.0,17.392,78.516,6.0,6.0,6.968999999999999,Green,High,No flood action. Routine monitoring.
+Amberpet,2020-10-11,47.5,0.823,498.0,1.0,17.392,78.516,47.5,47.5,55.17125,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Amberpet,2020-10-12,14.1,0.823,498.0,1.0,17.392,78.516,14.1,14.1,16.37715,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Amberpet,2020-10-13,73.6,0.823,498.0,1.0,17.392,78.516,73.6,73.6,85.48639999999999,Orange,High,"Be prepared. Pre-position pumps, boats and rescue teams; plan diversions; issue public advisory."
+Amberpet,2020-10-14,15.4,0.823,498.0,1.0,17.392,78.516,15.4,15.4,17.8871,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Amberpet,2020-10-15,1.2,0.823,498.0,1.0,17.392,78.516,1.2,1.2,1.3938,Green,High,No flood action. Routine monitoring.
+Amberpet,2020-10-16,0.1,0.823,498.0,1.0,17.392,78.516,0.1,0.1,0.11615,Green,High,No flood action. Routine monitoring.
+Amberpet,2020-10-17,2.8,0.823,498.0,1.0,17.392,78.516,2.8,2.8,3.2521999999999998,Green,High,No flood action. Routine monitoring.
+Musheerabad,2020-10-09,8.2,0.495,517.0,2.125,17.417,78.495,8.2,8.2,8.179499999999999,Green,High,No flood action. Routine monitoring.
+Musheerabad,2020-10-10,5.9,0.495,517.0,2.125,17.417,78.495,5.9,5.9,5.885250000000001,Green,High,No flood action. Routine monitoring.
+Musheerabad,2020-10-11,40.7,0.495,517.0,2.125,17.417,78.495,40.7,40.7,40.59825000000001,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Musheerabad,2020-10-12,11.7,0.495,517.0,2.125,17.417,78.495,11.7,11.7,11.67075,Green,High,No flood action. Routine monitoring.
+Musheerabad,2020-10-13,80.5,0.495,517.0,2.125,17.417,78.495,80.5,80.5,80.29875,Orange,High,"Be prepared. Pre-position pumps, boats and rescue teams; plan diversions; issue public advisory."
+Musheerabad,2020-10-14,13.7,0.495,517.0,2.125,17.417,78.495,13.7,13.7,13.66575,Green,High,No flood action. Routine monitoring.
+Musheerabad,2020-10-15,1.4,0.495,517.0,2.125,17.417,78.495,1.4,1.4,1.3965,Green,High,No flood action. Routine monitoring.
+Musheerabad,2020-10-16,0.0,0.495,517.0,2.125,17.417,78.495,0.0,0.0,0.0,Green,High,No flood action. Routine monitoring.
+Musheerabad,2020-10-17,2.3,0.495,517.0,2.125,17.417,78.495,2.3,2.3,2.29425,Green,High,No flood action. Routine monitoring.
+Tank Bund / Hussain Sagar,2020-10-09,8.2,0.862,513.0,-7.375,17.4239,78.4738,8.2,8.2,9.684199999999999,Green,High,No flood action. Routine monitoring.
+Tank Bund / Hussain Sagar,2020-10-10,5.9,0.862,513.0,-7.375,17.4239,78.4738,5.9,5.9,6.967900000000001,Green,High,No flood action. Routine monitoring.
+Tank Bund / Hussain Sagar,2020-10-11,40.7,0.862,513.0,-7.375,17.4239,78.4738,40.7,40.7,48.066700000000004,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Tank Bund / Hussain Sagar,2020-10-12,11.7,0.862,513.0,-7.375,17.4239,78.4738,11.7,11.7,13.8177,Green,High,No flood action. Routine monitoring.
+Tank Bund / Hussain Sagar,2020-10-13,80.5,0.862,513.0,-7.375,17.4239,78.4738,80.5,80.5,95.07050000000001,Orange,High,"Be prepared. Pre-position pumps, boats and rescue teams; plan diversions; issue public advisory."
+Tank Bund / Hussain Sagar,2020-10-14,13.7,0.862,513.0,-7.375,17.4239,78.4738,13.7,13.7,16.1797,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Tank Bund / Hussain Sagar,2020-10-15,1.4,0.862,513.0,-7.375,17.4239,78.4738,1.4,1.4,1.6534,Green,High,No flood action. Routine monitoring.
+Tank Bund / Hussain Sagar,2020-10-16,0.0,0.862,513.0,-7.375,17.4239,78.4738,0.0,0.0,0.0,Green,High,No flood action. Routine monitoring.
+Tank Bund / Hussain Sagar,2020-10-17,2.3,0.862,513.0,-7.375,17.4239,78.4738,2.3,2.3,2.7163,Green,High,No flood action. Routine monitoring.
+Begumpet,2020-10-09,5.7,0.703,525.0,-3.625,17.444,78.4676,5.7,5.7,6.27855,Green,High,No flood action. Routine monitoring.
+Begumpet,2020-10-10,5.7,0.703,525.0,-3.625,17.444,78.4676,5.7,5.7,6.27855,Green,High,No flood action. Routine monitoring.
+Begumpet,2020-10-11,36.3,0.703,525.0,-3.625,17.444,78.4676,36.3,36.3,39.984449999999995,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Begumpet,2020-10-12,9.7,0.703,525.0,-3.625,17.444,78.4676,9.7,9.7,10.684549999999998,Green,High,No flood action. Routine monitoring.
+Begumpet,2020-10-13,77.6,0.703,525.0,-3.625,17.444,78.4676,77.6,77.6,85.47639999999998,Orange,High,"Be prepared. Pre-position pumps, boats and rescue teams; plan diversions; issue public advisory."
+Begumpet,2020-10-14,16.4,0.703,525.0,-3.625,17.444,78.4676,16.4,16.4,18.0646,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Begumpet,2020-10-15,1.9,0.703,525.0,-3.625,17.444,78.4676,1.9,1.9,2.09285,Green,High,No flood action. Routine monitoring.
+Begumpet,2020-10-16,0.0,0.703,525.0,-3.625,17.444,78.4676,0.0,0.0,0.0,Green,High,No flood action. Routine monitoring.
+Begumpet,2020-10-17,2.9,0.703,525.0,-3.625,17.444,78.4676,2.9,2.9,3.1943499999999996,Green,High,No flood action. Routine monitoring.
+Secunderabad,2020-10-09,8.1,0.242,538.0,7.875,17.4399,78.4983,8.1,8.1,7.0550999999999995,Green,High,No flood action. Routine monitoring.
+Secunderabad,2020-10-10,6.4,0.242,538.0,7.875,17.4399,78.4983,6.4,6.4,5.574400000000001,Green,High,No flood action. Routine monitoring.
+Secunderabad,2020-10-11,38.5,0.242,538.0,7.875,17.4399,78.4983,38.5,38.5,33.5335,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Secunderabad,2020-10-12,12.4,0.242,538.0,7.875,17.4399,78.4983,12.4,12.4,10.8004,Green,High,No flood action. Routine monitoring.
+Secunderabad,2020-10-13,73.2,0.242,538.0,7.875,17.4399,78.4983,73.2,73.2,63.757200000000005,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Secunderabad,2020-10-14,17.6,0.242,538.0,7.875,17.4399,78.4983,17.6,17.6,15.329600000000001,Green,High,No flood action. Routine monitoring.
+Secunderabad,2020-10-15,1.6,0.242,538.0,7.875,17.4399,78.4983,1.6,1.6,1.3936000000000002,Green,High,No flood action. Routine monitoring.
+Secunderabad,2020-10-16,0.2,0.242,538.0,7.875,17.4399,78.4983,0.2,0.2,0.17420000000000002,Green,High,No flood action. Routine monitoring.
+Secunderabad,2020-10-17,3.3,0.242,538.0,7.875,17.4399,78.4983,3.3,3.3,2.8743,Green,High,No flood action. Routine monitoring.
+Mehdipatnam,2020-10-09,8.2,0.786,532.0,-7.375,17.395,78.435,8.2,8.2,9.372599999999998,Green,High,No flood action. Routine monitoring.
+Mehdipatnam,2020-10-10,5.9,0.786,532.0,-7.375,17.395,78.435,5.9,5.9,6.7437000000000005,Green,High,No flood action. Routine monitoring.
+Mehdipatnam,2020-10-11,40.7,0.786,532.0,-7.375,17.395,78.435,40.7,40.7,46.520100000000006,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Mehdipatnam,2020-10-12,11.7,0.786,532.0,-7.375,17.395,78.435,11.7,11.7,13.373099999999999,Green,High,No flood action. Routine monitoring.
+Mehdipatnam,2020-10-13,80.5,0.786,532.0,-7.375,17.395,78.435,80.5,80.5,92.0115,Orange,High,"Be prepared. Pre-position pumps, boats and rescue teams; plan diversions; issue public advisory."
+Mehdipatnam,2020-10-14,13.7,0.786,532.0,-7.375,17.395,78.435,13.7,13.7,15.659099999999999,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Mehdipatnam,2020-10-15,1.4,0.786,532.0,-7.375,17.395,78.435,1.4,1.4,1.6001999999999998,Green,High,No flood action. Routine monitoring.
+Mehdipatnam,2020-10-16,0.0,0.786,532.0,-7.375,17.395,78.435,0.0,0.0,0.0,Green,High,No flood action. Routine monitoring.
+Mehdipatnam,2020-10-17,2.3,0.786,532.0,-7.375,17.395,78.435,2.3,2.3,2.6289,Green,High,No flood action. Routine monitoring.
+Tolichowki,2020-10-09,6.3,0.836,532.0,-21.25,17.4,78.41,6.3,6.3,7.3584,Green,High,No flood action. Routine monitoring.
+Tolichowki,2020-10-10,7.7,0.836,532.0,-21.25,17.4,78.41,7.7,7.7,8.993599999999999,Green,High,No flood action. Routine monitoring.
+Tolichowki,2020-10-11,25.9,0.836,532.0,-21.25,17.4,78.41,25.9,25.9,30.251199999999997,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Tolichowki,2020-10-12,9.6,0.836,532.0,-21.25,17.4,78.41,9.6,9.6,11.2128,Green,High,No flood action. Routine monitoring.
+Tolichowki,2020-10-13,90.2,0.836,532.0,-21.25,17.4,78.41,90.2,90.2,105.3536,Orange,High,"Be prepared. Pre-position pumps, boats and rescue teams; plan diversions; issue public advisory."
+Tolichowki,2020-10-14,13.6,0.836,532.0,-21.25,17.4,78.41,13.6,13.6,15.884799999999998,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Tolichowki,2020-10-15,1.7,0.836,532.0,-21.25,17.4,78.41,1.7,1.7,1.9855999999999998,Green,High,No flood action. Routine monitoring.
+Tolichowki,2020-10-16,0.1,0.836,532.0,-21.25,17.4,78.41,0.1,0.1,0.1168,Green,High,No flood action. Routine monitoring.
+Tolichowki,2020-10-17,2.5,0.836,532.0,-21.25,17.4,78.41,2.5,2.5,2.92,Green,High,No flood action. Routine monitoring.
+Attapur,2020-10-09,8.2,0.857,510.0,-7.125,17.368,78.426,8.2,8.2,9.6637,Green,High,No flood action. Routine monitoring.
+Attapur,2020-10-10,5.9,0.857,510.0,-7.125,17.368,78.426,5.9,5.9,6.953150000000001,Green,High,No flood action. Routine monitoring.
+Attapur,2020-10-11,40.7,0.857,510.0,-7.125,17.368,78.426,40.7,40.7,47.96495000000001,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Attapur,2020-10-12,11.7,0.857,510.0,-7.125,17.368,78.426,11.7,11.7,13.788450000000001,Green,High,No flood action. Routine monitoring.
+Attapur,2020-10-13,80.5,0.857,510.0,-7.125,17.368,78.426,80.5,80.5,94.86925000000001,Orange,High,"Be prepared. Pre-position pumps, boats and rescue teams; plan diversions; issue public advisory."
+Attapur,2020-10-14,13.7,0.857,510.0,-7.125,17.368,78.426,13.7,13.7,16.14545,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Attapur,2020-10-15,1.4,0.857,510.0,-7.125,17.368,78.426,1.4,1.4,1.6499000000000001,Green,High,No flood action. Routine monitoring.
+Attapur,2020-10-16,0.0,0.857,510.0,-7.125,17.368,78.426,0.0,0.0,0.0,Green,High,No flood action. Routine monitoring.
+Attapur,2020-10-17,2.3,0.857,510.0,-7.125,17.368,78.426,2.3,2.3,2.71055,Green,High,No flood action. Routine monitoring.
+Falaknuma,2020-10-09,6.3,0.0,588.0,54.5,17.33,78.468,6.3,6.3,4.725,Green,High,No flood action. Routine monitoring.
+Falaknuma,2020-10-10,6.4,0.0,588.0,54.5,17.33,78.468,6.4,6.4,4.800000000000001,Green,High,No flood action. Routine monitoring.
+Falaknuma,2020-10-11,33.5,0.0,588.0,54.5,17.33,78.468,33.5,33.5,25.125,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Falaknuma,2020-10-12,12.6,0.0,588.0,54.5,17.33,78.468,12.6,12.6,9.45,Green,High,No flood action. Routine monitoring.
+Falaknuma,2020-10-13,84.9,0.0,588.0,54.5,17.33,78.468,84.9,84.9,63.675000000000004,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Falaknuma,2020-10-14,13.6,0.0,588.0,54.5,17.33,78.468,13.6,13.6,10.2,Green,High,No flood action. Routine monitoring.
+Falaknuma,2020-10-15,1.2,0.0,588.0,54.5,17.33,78.468,1.2,1.2,0.8999999999999999,Green,High,No flood action. Routine monitoring.
+Falaknuma,2020-10-16,0.1,0.0,588.0,54.5,17.33,78.468,0.1,0.1,0.07500000000000001,Green,High,No flood action. Routine monitoring.
+Falaknuma,2020-10-17,1.5,0.0,588.0,54.5,17.33,78.468,1.5,1.5,1.125,Green,High,No flood action. Routine monitoring.
+Dilsukhnagar,2020-10-09,7.3,0.648,494.0,2.75,17.3688,78.5247,7.3,7.3,7.8402,Green,High,No flood action. Routine monitoring.
+Dilsukhnagar,2020-10-10,6.0,0.648,494.0,2.75,17.3688,78.5247,6.0,6.0,6.444000000000001,Green,High,No flood action. Routine monitoring.
+Dilsukhnagar,2020-10-11,47.5,0.648,494.0,2.75,17.3688,78.5247,47.5,47.5,51.015,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Dilsukhnagar,2020-10-12,14.1,0.648,494.0,2.75,17.3688,78.5247,14.1,14.1,15.1434,Green,High,No flood action. Routine monitoring.
+Dilsukhnagar,2020-10-13,73.6,0.648,494.0,2.75,17.3688,78.5247,73.6,73.6,79.0464,Orange,High,"Be prepared. Pre-position pumps, boats and rescue teams; plan diversions; issue public advisory."
+Dilsukhnagar,2020-10-14,15.4,0.648,494.0,2.75,17.3688,78.5247,15.4,15.4,16.5396,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Dilsukhnagar,2020-10-15,1.2,0.648,494.0,2.75,17.3688,78.5247,1.2,1.2,1.2888,Green,High,No flood action. Routine monitoring.
+Dilsukhnagar,2020-10-16,0.1,0.648,494.0,2.75,17.3688,78.5247,0.1,0.1,0.10740000000000001,Green,High,No flood action. Routine monitoring.
+Dilsukhnagar,2020-10-17,2.8,0.648,494.0,2.75,17.3688,78.5247,2.8,2.8,3.0072,Green,High,No flood action. Routine monitoring.
+Saroornagar,2020-10-09,3.2,0.505,506.0,5.75,17.3541,78.536,3.2,3.2,3.208,Green,High,No flood action. Routine monitoring.
+Saroornagar,2020-10-10,5.6,0.505,506.0,5.75,17.3541,78.536,5.6,5.6,5.613999999999999,Green,High,No flood action. Routine monitoring.
+Saroornagar,2020-10-11,45.2,0.505,506.0,5.75,17.3541,78.536,45.2,45.2,45.313,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Saroornagar,2020-10-12,10.9,0.505,506.0,5.75,17.3541,78.536,10.9,10.9,10.927249999999999,Green,High,No flood action. Routine monitoring.
+Saroornagar,2020-10-13,85.0,0.505,506.0,5.75,17.3541,78.536,85.0,85.0,85.21249999999999,Orange,High,"Be prepared. Pre-position pumps, boats and rescue teams; plan diversions; issue public advisory."
+Saroornagar,2020-10-14,13.1,0.505,506.0,5.75,17.3541,78.536,13.1,13.1,13.13275,Green,High,No flood action. Routine monitoring.
+Saroornagar,2020-10-15,0.9,0.505,506.0,5.75,17.3541,78.536,0.9,0.9,0.90225,Green,High,No flood action. Routine monitoring.
+Saroornagar,2020-10-16,0.0,0.505,506.0,5.75,17.3541,78.536,0.0,0.0,0.0,Green,High,No flood action. Routine monitoring.
+Saroornagar,2020-10-17,1.8,0.505,506.0,5.75,17.3541,78.536,1.8,1.8,1.8045,Green,High,No flood action. Routine monitoring.
+LB Nagar,2020-10-09,3.2,0.505,511.0,2.625,17.3457,78.5522,3.2,3.2,3.208,Green,High,No flood action. Routine monitoring.
+LB Nagar,2020-10-10,5.6,0.505,511.0,2.625,17.3457,78.5522,5.6,5.6,5.613999999999999,Green,High,No flood action. Routine monitoring.
+LB Nagar,2020-10-11,45.2,0.505,511.0,2.625,17.3457,78.5522,45.2,45.2,45.313,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+LB Nagar,2020-10-12,10.9,0.505,511.0,2.625,17.3457,78.5522,10.9,10.9,10.927249999999999,Green,High,No flood action. Routine monitoring.
+LB Nagar,2020-10-13,85.0,0.505,511.0,2.625,17.3457,78.5522,85.0,85.0,85.21249999999999,Orange,High,"Be prepared. Pre-position pumps, boats and rescue teams; plan diversions; issue public advisory."
+LB Nagar,2020-10-14,13.1,0.505,511.0,2.625,17.3457,78.5522,13.1,13.1,13.13275,Green,High,No flood action. Routine monitoring.
+LB Nagar,2020-10-15,0.9,0.505,511.0,2.625,17.3457,78.5522,0.9,0.9,0.90225,Green,High,No flood action. Routine monitoring.
+LB Nagar,2020-10-16,0.0,0.505,511.0,2.625,17.3457,78.5522,0.0,0.0,0.0,Green,High,No flood action. Routine monitoring.
+LB Nagar,2020-10-17,1.8,0.505,511.0,2.625,17.3457,78.5522,1.8,1.8,1.8045,Green,High,No flood action. Routine monitoring.
+Nagole,2020-10-09,7.3,1.0,474.0,-5.75,17.392,78.564,7.3,7.3,9.125,Green,High,No flood action. Routine monitoring.
+Nagole,2020-10-10,6.0,1.0,474.0,-5.75,17.392,78.564,6.0,6.0,7.5,Green,High,No flood action. Routine monitoring.
+Nagole,2020-10-11,47.5,1.0,474.0,-5.75,17.392,78.564,47.5,47.5,59.375,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Nagole,2020-10-12,14.1,1.0,474.0,-5.75,17.392,78.564,14.1,14.1,17.625,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Nagole,2020-10-13,73.6,1.0,474.0,-5.75,17.392,78.564,73.6,73.6,92.0,Orange,High,"Be prepared. Pre-position pumps, boats and rescue teams; plan diversions; issue public advisory."
+Nagole,2020-10-14,15.4,1.0,474.0,-5.75,17.392,78.564,15.4,15.4,19.25,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Nagole,2020-10-15,1.2,1.0,474.0,-5.75,17.392,78.564,1.2,1.2,1.5,Green,High,No flood action. Routine monitoring.
+Nagole,2020-10-16,0.1,1.0,474.0,-5.75,17.392,78.564,0.1,0.1,0.125,Green,High,No flood action. Routine monitoring.
+Nagole,2020-10-17,2.8,1.0,474.0,-5.75,17.392,78.564,2.8,2.8,3.5,Green,High,No flood action. Routine monitoring.
+Uppal,2020-10-09,7.3,0.395,504.0,13.125,17.4058,78.5591,7.3,7.3,6.9167499999999995,Green,High,No flood action. Routine monitoring.
+Uppal,2020-10-10,6.0,0.395,504.0,13.125,17.4058,78.5591,6.0,6.0,5.6850000000000005,Green,High,No flood action. Routine monitoring.
+Uppal,2020-10-11,47.5,0.395,504.0,13.125,17.4058,78.5591,47.5,47.5,45.00625,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Uppal,2020-10-12,14.1,0.395,504.0,13.125,17.4058,78.5591,14.1,14.1,13.35975,Green,High,No flood action. Routine monitoring.
+Uppal,2020-10-13,73.6,0.395,504.0,13.125,17.4058,78.5591,73.6,73.6,69.73599999999999,Orange,High,"Be prepared. Pre-position pumps, boats and rescue teams; plan diversions; issue public advisory."
+Uppal,2020-10-14,15.4,0.395,504.0,13.125,17.4058,78.5591,15.4,15.4,14.5915,Green,High,No flood action. Routine monitoring.
+Uppal,2020-10-15,1.2,0.395,504.0,13.125,17.4058,78.5591,1.2,1.2,1.137,Green,High,No flood action. Routine monitoring.
+Uppal,2020-10-16,0.1,0.395,504.0,13.125,17.4058,78.5591,0.1,0.1,0.09475,Green,High,No flood action. Routine monitoring.
+Uppal,2020-10-17,2.8,0.395,504.0,13.125,17.4058,78.5591,2.8,2.8,2.653,Green,High,No flood action. Routine monitoring.
+Kukatpally,2020-10-09,4.3,0.121,586.0,9.125,17.4948,78.3996,4.3,4.3,3.48515,Green,High,No flood action. Routine monitoring.
+Kukatpally,2020-10-10,9.4,0.121,586.0,9.125,17.4948,78.3996,9.4,9.4,7.6187000000000005,Green,High,No flood action. Routine monitoring.
+Kukatpally,2020-10-11,29.2,0.121,586.0,9.125,17.4948,78.3996,29.2,29.2,23.6666,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Kukatpally,2020-10-12,8.7,0.121,586.0,9.125,17.4948,78.3996,8.7,8.7,7.051349999999999,Green,High,No flood action. Routine monitoring.
+Kukatpally,2020-10-13,84.5,0.121,586.0,9.125,17.4948,78.3996,84.5,84.5,68.48725,Orange,High,"Be prepared. Pre-position pumps, boats and rescue teams; plan diversions; issue public advisory."
+Kukatpally,2020-10-14,15.8,0.121,586.0,9.125,17.4948,78.3996,15.8,15.8,12.805900000000001,Green,High,No flood action. Routine monitoring.
+Kukatpally,2020-10-15,2.3,0.121,586.0,9.125,17.4948,78.3996,2.3,2.3,1.8641499999999998,Green,High,No flood action. Routine monitoring.
+Kukatpally,2020-10-16,0.1,0.121,586.0,9.125,17.4948,78.3996,0.1,0.1,0.08105000000000001,Green,High,No flood action. Routine monitoring.
+Kukatpally,2020-10-17,2.6,0.121,586.0,9.125,17.4948,78.3996,2.6,2.6,2.1073,Green,High,No flood action. Routine monitoring.
+Miyapur,2020-10-09,4.3,0.439,584.0,1.625,17.4967,78.356,4.3,4.3,4.16885,Green,High,No flood action. Routine monitoring.
+Miyapur,2020-10-10,9.4,0.439,584.0,1.625,17.4967,78.356,9.4,9.4,9.1133,Green,High,No flood action. Routine monitoring.
+Miyapur,2020-10-11,29.2,0.439,584.0,1.625,17.4967,78.356,29.2,29.2,28.3094,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Miyapur,2020-10-12,8.7,0.439,584.0,1.625,17.4967,78.356,8.7,8.7,8.43465,Green,High,No flood action. Routine monitoring.
+Miyapur,2020-10-13,84.5,0.439,584.0,1.625,17.4967,78.356,84.5,84.5,81.92275000000001,Orange,High,"Be prepared. Pre-position pumps, boats and rescue teams; plan diversions; issue public advisory."
+Miyapur,2020-10-14,15.8,0.439,584.0,1.625,17.4967,78.356,15.8,15.8,15.318100000000001,Green,High,No flood action. Routine monitoring.
+Miyapur,2020-10-15,2.3,0.439,584.0,1.625,17.4967,78.356,2.3,2.3,2.22985,Green,High,No flood action. Routine monitoring.
+Miyapur,2020-10-16,0.1,0.439,584.0,1.625,17.4967,78.356,0.1,0.1,0.09695000000000001,Green,High,No flood action. Routine monitoring.
+Miyapur,2020-10-17,2.6,0.439,584.0,1.625,17.4967,78.356,2.6,2.6,2.5207,Green,High,No flood action. Routine monitoring.
+Madhapur,2020-10-09,4.3,0.412,578.0,1.875,17.4486,78.3908,4.3,4.3,4.110799999999999,Green,High,No flood action. Routine monitoring.
+Madhapur,2020-10-10,9.4,0.412,578.0,1.875,17.4486,78.3908,9.4,9.4,8.9864,Green,High,No flood action. Routine monitoring.
+Madhapur,2020-10-11,29.2,0.412,578.0,1.875,17.4486,78.3908,29.2,29.2,27.9152,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Madhapur,2020-10-12,8.7,0.412,578.0,1.875,17.4486,78.3908,8.7,8.7,8.3172,Green,High,No flood action. Routine monitoring.
+Madhapur,2020-10-13,84.5,0.412,578.0,1.875,17.4486,78.3908,84.5,84.5,80.782,Orange,High,"Be prepared. Pre-position pumps, boats and rescue teams; plan diversions; issue public advisory."
+Madhapur,2020-10-14,15.8,0.412,578.0,1.875,17.4486,78.3908,15.8,15.8,15.104800000000001,Green,High,No flood action. Routine monitoring.
+Madhapur,2020-10-15,2.3,0.412,578.0,1.875,17.4486,78.3908,2.3,2.3,2.1988,Green,High,No flood action. Routine monitoring.
+Madhapur,2020-10-16,0.1,0.412,578.0,1.875,17.4486,78.3908,0.1,0.1,0.0956,Green,High,No flood action. Routine monitoring.
+Madhapur,2020-10-17,2.6,0.412,578.0,1.875,17.4486,78.3908,2.6,2.6,2.4856,Green,High,No flood action. Routine monitoring.
+Gachibowli,2020-10-09,4.3,0.011,614.0,17.625,17.4401,78.3489,4.3,4.3,3.2486499999999996,Green,High,No flood action. Routine monitoring.
+Gachibowli,2020-10-10,9.4,0.011,614.0,17.625,17.4401,78.3489,9.4,9.4,7.1017,Green,High,No flood action. Routine monitoring.
+Gachibowli,2020-10-11,29.2,0.011,614.0,17.625,17.4401,78.3489,29.2,29.2,22.060599999999997,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Gachibowli,2020-10-12,8.7,0.011,614.0,17.625,17.4401,78.3489,8.7,8.7,6.572849999999999,Green,High,No flood action. Routine monitoring.
+Gachibowli,2020-10-13,84.5,0.011,614.0,17.625,17.4401,78.3489,84.5,84.5,63.839749999999995,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Gachibowli,2020-10-14,15.8,0.011,614.0,17.625,17.4401,78.3489,15.8,15.8,11.9369,Green,High,No flood action. Routine monitoring.
+Gachibowli,2020-10-15,2.3,0.011,614.0,17.625,17.4401,78.3489,2.3,2.3,1.7376499999999997,Green,High,No flood action. Routine monitoring.
+Gachibowli,2020-10-16,0.1,0.011,614.0,17.625,17.4401,78.3489,0.1,0.1,0.07555,Green,High,No flood action. Routine monitoring.
+Gachibowli,2020-10-17,2.6,0.011,614.0,17.625,17.4401,78.3489,2.6,2.6,1.9643,Green,High,No flood action. Routine monitoring.
+Alwal,2020-10-09,8.1,0.434,576.0,1.875,17.5,78.51,8.1,8.1,7.832699999999999,Green,High,No flood action. Routine monitoring.
+Alwal,2020-10-10,6.4,0.434,576.0,1.875,17.5,78.51,6.4,6.4,6.1888000000000005,Green,High,No flood action. Routine monitoring.
+Alwal,2020-10-11,38.5,0.434,576.0,1.875,17.5,78.51,38.5,38.5,37.2295,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Alwal,2020-10-12,12.4,0.434,576.0,1.875,17.5,78.51,12.4,12.4,11.9908,Green,High,No flood action. Routine monitoring.
+Alwal,2020-10-13,73.2,0.434,576.0,1.875,17.5,78.51,73.2,73.2,70.7844,Orange,High,"Be prepared. Pre-position pumps, boats and rescue teams; plan diversions; issue public advisory."
+Alwal,2020-10-14,17.6,0.434,576.0,1.875,17.5,78.51,17.6,17.6,17.0192,Yellow,High,"Be aware. Check drains/culverts, keep control room on watch, brief traffic units."
+Alwal,2020-10-15,1.6,0.434,576.0,1.875,17.5,78.51,1.6,1.6,1.5472000000000001,Green,High,No flood action. Routine monitoring.
+Alwal,2020-10-16,0.2,0.434,576.0,1.875,17.5,78.51,0.2,0.2,0.19340000000000002,Green,High,No flood action. Routine monitoring.
+Alwal,2020-10-17,3.3,0.434,576.0,1.875,17.5,78.51,3.3,3.3,3.1910999999999996,Green,High,No flood action. Routine monitoring.

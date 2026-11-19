@@ -1,0 +1,8 @@
+# runtime dependencies for the dashboard (used by Streamlit Community Cloud)
+streamlit>=1.33
+pandas>=2.0
+numpy>=1.24
+plotly>=5.18
+pydeck>=0.8
+networkx>=3.0
+requests>=2.31
